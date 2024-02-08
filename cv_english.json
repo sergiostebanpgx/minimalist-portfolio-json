@@ -1,66 +1,67 @@
 {
   "basics": {
-    "name": "Miguel Ángel Durán",
-    "label": "Full-Stack developer with more than 15 years of experience & development content creator",
+    "name": "Sergio Steban Parra Guarnizo",
+    "label": "Frontend Developer with over 3 years of experience & CEO of Developer X",
     "image": "/me.webp",
-    "email": "miduga@gmail.com",
-    "phone": "+34 688888888",
-    "url": "https://midu.dev",
-    "summary": "+15 years of experience as a web developer. Currently I am a content creator and development dommunicator. I live in Barcelona, Spain. I have worked in different environments: from accelerating the development of start-ups to leading teams in multinational companies.",
+    "email": "sergiostebanpgx@icloud.com",
+    "phone": "+34 3102890938",
+    "url": "https://sergiostebanpgx.vercel.app",
+    "summary": "Over 3 years of experience as a Web Developer. I live in Bogotá, Colombia. I have worked in various environments, from accelerating the development of startups and contributing to projects, to serving as an Academic Secretary at a school in Bogotá. I am passionate about technology and education. I love learning and teaching. I consider myself proactive, self-taught, and eager to learn and contribute to the community.",
     "location": {
       "address": "",
-      "postalCode": "08820",
-      "city": "el Prat de Llobregat",
-      "countryCode": "ES",
-      "region": "Spain"
+      "postalCode": "111921",
+      "city": "Bogotá",
+      "countryCode": "CO",
+      "region": "Colombia"
     },
     "profiles": [
       {
         "network": "LinkedIn",
         "username": "midudev",
-        "url": "https://linkedin.com/in/midudev"
+        "url": "https://www.linkedin.com/in/sergiostebanpg/"
       },
       {
         "network": "X",
         "username": "midudev",
-        "url": "https://x.com/midudev"
+        "url": "https://x.com/sergiostebanpgx"
       },
       {
         "network": "GitHub",
         "username": "midudev",
-        "url": "https://github.com/midudev"
+        "url": "https://github.com/sergiostebanpgx"
       }
     ]
   },
   "work": [
     {
-      "name": "midudev",
-      "position": "Web programming communicator",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2021-01-01",
+      "name": "Digital",
+      "position": "Junior FrontEnd Developer",
+      "url": "#",
+      "startDate": "2024-02-01",
       "endDate": null,
-      "summary": "Most watched development streamer in Spanish on Twitch. +1 million followers across all my social networks. Recognised by Google, Microsoft and GitHub for my impact on the development community.",
+      "summary": "We are developing a website that showcases more than 150 technology companies in Colombia. I am responsible for the Frontend development and integration with the Backend.",
       "highlights": [
         "Started the company"
       ]
     },
     {
-      "name": "Adevinta",
-      "position": "Lead Frontend Architect",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2016-06-01",
-      "endDate": "2022-09-01",
-      "summary": "I led a technical convergence between different products and migrated from a monolithic architecture to a more flexible and optimised one. I fostered best practices and performance culture improvements, as well as rapid delivery of value to users.",
+      "name": "Unión Temporal Alianza Educativa",
+      "position": "Secretario",
+      "url": "https://alianzaeducativa.edu.co/",
+      "startDate": "2022-01-01",
+      "endDate": null,
+      "summary": "I am the Secretary of Las Margaritas School, managed by the Educational Alliance Temporary Union. I am in charge of all administrative tasks and student information management.", 
       "highlights": [
         "Started the company"
       ]
     },
     {
-      "name": "Hubii",
-      "position": "Senior FrontEnd Developer",
-      "startDate": "2011-03-01",
-      "endDate": "2016-05-01",
-      "summary": "I developed a geolocated news platform and an API to consume the information. Scaled services to support the load of over hundreds of thousands of requests per day. Cut delivery times and deployments to production by half. Collaborated with Mozilla and Telefónica to develop the first FirefoxOS TV app.",
+      "name": "Unión Temporal Alianza Educativa",
+      "position": "Auxiliar de Sistemas",
+      "url": "https://alianzaeducativa.edu.co/",
+      "startDate": "2019-05-01",
+      "endDate": "2021-05-01",
+      "summary": "I provided technical support to the teachers and students of Las Margaritas School. Additionally, I developed a template for registering students in the school cafeteria using a QR code.",
       "highlights": [
         "Started the company"
       ]
@@ -77,18 +78,68 @@
       "Awarded 'Volunteer of the Month'"
     ]
   }],
-  "education": [{
-    "institution": "Universitat Oberta de Catalunya",
-    "url": "https://www.uoc.edu/portal/es/index.html",
-    "area": "Software Engineer",
+  "education": [
+    {
+    "institution": "Unified National Corporation of Higher Education",
+    "url": "https://cun.edu.co/",
+    "area": "Systems Engineer",
     "studyType": "Bachelor",
-    "startDate": "2003-01-01",
-    "endDate": "2009-01-01",
+    "startDate": "2020-01-01",
+    "endDate": "2024-01-01",
     "score": "4.0",
     "courses": [
       "DB1101 - Basic SQL"
-    ]
-  }],
+      ]
+    },
+    {
+      "institution": "Google - Coursera",
+      "url": "https://coursera.org/",
+      "area": "Diploma in Cybersecurity",
+      "studyType": "Bachelor",
+      "startDate": "2024-01-01",
+      "endDate": null,
+      "score": "4.0",
+      "courses": [
+        "DB1101 - Basic SQL"
+        ]
+    },
+    {
+      "institution": "Francisco José de Caldas University",
+      "url": "https://www.udistrital.edu.co/inicio",
+      "area": "Data Analytics",
+      "studyType": "Bachelor",
+      "startDate": "2024-01-01",
+      "endDate": "2024-01-01",
+      "score": "4.0",
+      "courses": [
+        "DB1101 - Basic SQL"
+        ]
+    },
+    {
+      "institution": "Autonomous University of Bucaramanga",
+      "url": "https://unab.edu.co/",
+      "area": "Diploma in Web Application Development",
+      "studyType": "Bachelor",
+      "startDate": "2023-01-01",
+      "endDate": "2023-01-01",
+      "score": "4.0",
+      "courses": [
+        "DB1101 - Basic SQL"
+        ]
+    },
+    {
+      "institution": "Sergio Arboleda University",
+      "url": "https://www.usergioarboleda.edu.co/",
+      "area": "Diploma in Software Development",
+      "studyType": "Bachelor",
+      "startDate": "2023-01-01",
+      "endDate": "2023-01-01",
+      "score": "4.0",
+      "courses": [
+        "DB1101 - Basic SQL"
+        ]
+    }
+  ],
   "awards": [{
     "title": "Award",
     "date": "2014-11-01",
@@ -210,66 +261,32 @@
   }],
   "projects": [
     {
-      "name": "mars.codes",
+      "name": "GIE Visas",
       "isActive": true,
-      "description": "Interactive story with programming challenges to travel to Mars",
+      "description": "Information Manager for GIE Visas company. Allows users to manage their visa procedures.",
       "highlights": [
-        "Choose your own adventure",
-        "In progress"
+        "Choose Your Own Adventure"
       ],
-      "url": "https://mars.codes"
+      "url": "https://gievisas-developerx.netlify.app/"
     },
     {
-      "name": "AdventJS",
+      "name": "Restaurante",
       "isActive": true,
-      "description": "JavaScript programming challenges for every day of December until Christmas",
+      "description": "Website for a restaurant in Bogotá. Allows users to view the menu and make reservations.",
       "highlights": [
         "+1 million visits",
-        "Multilanguage",
-        "JavaScript & TypeScript"
+        "JavaScript, HTML, CSS"
       ],
-      "url": "https://advent.js/dev"
+      "url": "https://restaurant-developerx.netlify.app/"
     },
     {
-      "name": "Codember",
+      "name": "Las Bambas",
       "isActive": true,
-      "description": "Interactive programming game with challenges and secrets",
+      "description": "Mining company in Peru. Website to showcase company information and its projects.",
       "highlights": [
-        "+2000 active users",
         "Challenges for any language"
       ],
-      "url": "https://codember.dev"
-    },
-    {
-      "name": "codi.link",
-      "isActive": true,
-      "description": "Playground of HTML, CSS and JavaScript code for sharing",
-      "highlights": [
-        "100k monthly visit",
-        "Developed by the community"
-      ],
-      "url": "https://codi.link",
-      "github": "https://github.com/midudev/codi.link"
-    },
-    {
-      "name": "Pruebas Técnicas",
-      "isActive": true,
-      "description": "List of technical tests of companies to practice programming",
-      "highlights": [
-        "100% free",
-        "+500 community solutions"
-      ],
-      "url": "https://pruebastecnicas.com",
-      "github": "https://github.com/midudev/pruebas-tecnicas"
-    },
-    {
-      "name": "miduConf",
-      "description": "Streaming programming conference for the Spanish-speaking community with top talks",
-      "highlights": [
-        "+15k tickets handed over",
-        "+50k live viewers"
-      ],
-      "url": "https://miduconf.com"
+      "url": "https://lasbambas-developerx.netlify.app/"
     }
   ]
 }
