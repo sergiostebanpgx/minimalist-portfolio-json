@@ -268,7 +268,8 @@
         "Elige tu propia aventura",
         "En desarrollo"
       ],
-      "url": "https://gievisas-developerx.netlify.app/"
+      "url": "https://gievisas-developerx.netlify.app/",
+      "github": "https://gievisas-developerx.netlify.app/"
     },
     {
       "name": "Restaurante",
@@ -278,7 +279,8 @@
         "+1 millón de visitas",
         "JavaScript, HTML, CSS"
       ],
-      "url": "https://restaurant-developerx.netlify.app/"
+      "url": "https://restaurant-developerx.netlify.app/",
+      "github": "https://restaurant-developerx.netlify.app/"
     },
     {
       "name": "Las Bambas",
@@ -287,7 +289,8 @@
       "highlights": [
         "Retos para cualquier lenguaje"
       ],
-      "url": "https://lasbambas-developerx.netlify.app/"
+      "url": "https://lasbambas-developerx.netlify.app/",
+      "github": "https://lasbambas-developerx.netlify.app/"
     }
   ]
 }
