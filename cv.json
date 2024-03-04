@@ -17,7 +17,7 @@
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "midudev",
+        "username": "sergiostebanpg",
         "url": "https://www.linkedin.com/in/sergiostebanpg/"
       },
       {
@@ -34,34 +34,12 @@
   },
   "work": [
     {
-      "name": "Digital",
+      "name": "Di Digital",
       "position": "Junior FrontEnd Developer",
       "url": "#",
       "startDate": "2024-02-01",
       "endDate": null,
-      "summary": "Estamos desarrollando una página que haberca más de 150 empresas de tecnología en Colombia. Estoy encargado de la parte de FrontEnd y de la integración con el BackEnd.",
-      "highlights": [
-        "Started the company"
-      ]
-    },
-    {
-      "name": "Unión Temporal Alianza Educativa",
-      "position": "Secretario",
-      "url": "https://alianzaeducativa.edu.co/",
-      "startDate": "2022-01-01",
-      "endDate": null,
-      "summary": "Soy Secretario del Colegio Las Margaritas administrado por la Unión Temporal Alianza Educativa. Estoy encargado de toda la parte administrativa y de la gestión de la información de estudiantes.", 
-      "highlights": [
-        "Started the company"
-      ]
-    },
-    {
-      "name": "Unión Temporal Alianza Educativa",
-      "position": "Auxiliar de Sistemas",
-      "url": "https://alianzaeducativa.edu.co/",
-      "startDate": "2019-05-01",
-      "endDate": "2021-05-01",
-      "summary": "Daba soporte técnico a los docentes y estudiantes del Colegio Las Margaritas. Además, desarrollé una plantilla para toma de registro al comedor escolar mediante un código QR.",
+      "summary": "Estamos desarrollando una página que haberca más de 119 empresas de tecnología en Colombia. Estoy encargado de la parte de FrontEnd y de la integración con el BackEnd.",
       "highlights": [
         "Started the company"
       ]
@@ -92,7 +70,7 @@
       ]
     },
     {
-      "institution": "Google - Coursera",
+      "institution": "Google",
       "url": "https://coursera.org/",
       "area": "Diplomado en Ciberseguridad",
       "studyType": "Bachelor",

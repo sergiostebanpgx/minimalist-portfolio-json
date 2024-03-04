@@ -4,7 +4,7 @@
     "label": "Frontend Developer with over 3 years of experience & CEO of Developer X",
     "image": "/me.webp",
     "email": "sergiostebanpgx@icloud.com",
-    "phone": "+34 3102890938",
+    "phone": "+57 3102890938",
     "url": "https://sergiostebanpgx.vercel.app",
     "summary": "Over 3 years of experience as a Web Developer. I live in Bogotá, Colombia. I have worked in various environments, from accelerating the development of startups and contributing to projects, to serving as an Academic Secretary at a school in Bogotá. I am passionate about technology and education. I love learning and teaching. I consider myself proactive, self-taught, and eager to learn and contribute to the community.",
     "location": {
@@ -17,51 +17,29 @@
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "midudev",
+        "username": "sergiostebanpg",
         "url": "https://www.linkedin.com/in/sergiostebanpg/"
       },
       {
         "network": "X",
-        "username": "midudev",
+        "username": "sergiostebanpgx",
         "url": "https://x.com/sergiostebanpgx"
       },
       {
         "network": "GitHub",
-        "username": "midudev",
+        "username": "sergiostebanpgx",
         "url": "https://github.com/sergiostebanpgx"
       }
     ]
   },
   "work": [
     {
-      "name": "Digital",
+      "name": "Di Digital",
       "position": "Junior FrontEnd Developer",
       "url": "#",
       "startDate": "2024-02-01",
       "endDate": null,
-      "summary": "We are developing a website that showcases more than 150 technology companies in Colombia. I am responsible for the Frontend development and integration with the Backend.",
-      "highlights": [
-        "Started the company"
-      ]
-    },
-    {
-      "name": "Unión Temporal Alianza Educativa",
-      "position": "Secretario",
-      "url": "https://alianzaeducativa.edu.co/",
-      "startDate": "2022-01-01",
-      "endDate": null,
-      "summary": "I am the Secretary of Las Margaritas School, managed by the Educational Alliance Temporary Union. I am in charge of all administrative tasks and student information management.", 
-      "highlights": [
-        "Started the company"
-      ]
-    },
-    {
-      "name": "Unión Temporal Alianza Educativa",
-      "position": "Auxiliar de Sistemas",
-      "url": "https://alianzaeducativa.edu.co/",
-      "startDate": "2019-05-01",
-      "endDate": "2021-05-01",
-      "summary": "I provided technical support to the teachers and students of Las Margaritas School. Additionally, I developed a template for registering students in the school cafeteria using a QR code.",
+      "summary": "We are developing a website that showcases more than 119 technology companies in Colombia. I am responsible for the Frontend development and integration with the Backend.",
       "highlights": [
         "Started the company"
       ]
@@ -92,7 +70,7 @@
       ]
     },
     {
-      "institution": "Google - Coursera",
+      "institution": "Google",
       "url": "https://coursera.org/",
       "area": "Diploma in Cybersecurity",
       "studyType": "Bachelor",
