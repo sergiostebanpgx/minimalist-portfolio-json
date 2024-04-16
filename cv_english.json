@@ -245,7 +245,7 @@
       "highlights": [
         "Choose Your Own Adventure"
       ],
-      "url": "https://gievisas-developerx.netlify.app/"
+      "url": "https://demo-landing-agency.vercel.app/"
     },
     {
       "name": "Restaurante",
@@ -255,7 +255,7 @@
         "+1 million visits",
         "JavaScript, HTML, CSS"
       ],
-      "url": "https://restaurant-developerx.netlify.app/"
+      "url": "https://demo-landing-restaurant.vercel.app/"
     },
     {
       "name": "Las Bambas",
@@ -264,7 +264,7 @@
       "highlights": [
         "Challenges for any language"
       ],
-      "url": "https://lasbambas-developerx.netlify.app/"
+      "url": "https://demo-landing-miner.vercel.app/"
     }
   ]
 }

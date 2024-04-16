@@ -39,7 +39,7 @@
       "url": "#",
       "startDate": "2024-02-01",
       "endDate": null,
-      "summary": "Estamos desarrollando una página que haberca más de 119 empresas de tecnología en Colombia. Estoy encargado de la parte de FrontEnd y de la integración con el BackEnd.",
+      "summary": "Estamos desarrollando una página que haberca más de 119 empresas en Colombia. Estoy encargado de la parte de FrontEnd y de la integración con el BackEnd.",
       "highlights": [
         "Started the company"
       ]
@@ -246,8 +246,8 @@
         "Elige tu propia aventura",
         "En desarrollo"
       ],
-      "url": "https://gievisas-developerx.netlify.app/",
-      "github": "https://gievisas-developerx.netlify.app/"
+      "url": "https://demo-landing-agency.vercel.app/",
+      "github": "https://demo-landing-agency.vercel.app/"
     },
     {
       "name": "Restaurante",
@@ -257,8 +257,8 @@
         "+1 millón de visitas",
         "JavaScript, HTML, CSS"
       ],
-      "url": "https://restaurant-developerx.netlify.app/",
-      "github": "https://restaurant-developerx.netlify.app/"
+      "url": "https://demo-landing-restaurant.vercel.app/",
+      "github": "https://demo-landing-restaurant.vercel.app/"
     },
     {
       "name": "Las Bambas",
@@ -267,8 +267,8 @@
       "highlights": [
         "Retos para cualquier lenguaje"
       ],
-      "url": "https://lasbambas-developerx.netlify.app/",
-      "github": "https://lasbambas-developerx.netlify.app/"
+      "url": "https://demo-landing-miner.vercel.app/",
+      "github": "https://demo-landing-miner.vercel.app/"
     }
   ]
 }
